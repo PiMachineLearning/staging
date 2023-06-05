@@ -1,3 +1,6 @@
+# Not used anymore
+The repository has migrated to `https://pimachinelearning.wip.la/simple`, and moved to a VPS instead of GitHub Pages. Staging does not exist anymore
+
 # staging
 Wheels built by PiMachineLearning as a binary repository. This repository is the staging repository, which ensures some stability on the main repository. New wheels get pushed here instead of the main repository, so that the main repository does not recieve broken wheels.
 
